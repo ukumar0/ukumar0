@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Utkarsh!
 
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring technology and building innovative projects.
 
@@ -46,9 +46,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring tec
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Portfolio](https://your-portfolio-link.com)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/utkarsh-kumar-022175143/))
+- [Portfolio](#)
+- [Email](mailto:utkarshkumar.uttu@gmail.com)
 
 ---
 
