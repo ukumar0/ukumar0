@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring tec
 
 ## 📫 Let's Connect!
 
-- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/utkarsh-kumar-022175143/))
+- [LinkedIn](https://www.linkedin.com/in/utkarsh-kumar-022175143/)
 - [Portfolio](#)
 - [Email](mailto:utkarshkumar.uttu@gmail.com)
 
